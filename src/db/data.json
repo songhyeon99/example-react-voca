@@ -1,0 +1,92 @@
+{
+  "days": [
+    {
+      "id": "1",
+      "day": 1
+    },
+    {
+      "id": "2",
+      "day": 2
+    },
+    {
+      "id": "3",
+      "day": 3
+    },
+    {
+      "id": "4",
+      "day": 4
+    }
+  ],
+  "words": [
+    {
+      "id": "2",
+      "day": 1,
+      "eng": "pen",
+      "kor": "펜",
+      "isDone": false
+    },
+    {
+      "id": "3",
+      "day": 2,
+      "eng": "computer",
+      "kor": "컴퓨터",
+      "isDone": false
+    },
+    {
+      "id": "5",
+      "day": 3,
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": true
+    },
+    {
+      "id": "6",
+      "day": 3,
+      "eng": "banana",
+      "kor": "바나나",
+      "isDone": true
+    },
+    {
+      "id": "7",
+      "day": 4,
+      "eng": "table",
+      "kor": "테이블",
+      "isDone": false
+    },
+    {
+      "id": "8",
+      "day": 4,
+      "eng": "chair",
+      "kor": "의자",
+      "isDone": false
+    },
+    {
+      "id": "9",
+      "day": 5,
+      "eng": "dog",
+      "kor": "개",
+      "isDone": false
+    },
+    {
+      "id": "10",
+      "day": 5,
+      "eng": "cat",
+      "kor": "고양이",
+      "isDone": false
+    },
+    {
+      "id": "e4c3",
+      "eng": "cat",
+      "kor": "고양이",
+      "day": 3,
+      "isDone": true
+    },
+    {
+      "id": "1873",
+      "eng": "cat",
+      "kor": "고양이",
+      "day": 4,
+      "isDone": false
+    }
+  ]
+}
